@@ -190,6 +190,10 @@ label[for='toggle-all'] {
 	border-bottom: none;
 }
 
+#todo-list li.highlighted {
+	color: red;
+}
+
 #todo-list li.editing {
 	border-bottom: none;
 	padding: 0;
